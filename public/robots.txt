@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio-website-one-phi-86.vercel.app/sitemap.xml
